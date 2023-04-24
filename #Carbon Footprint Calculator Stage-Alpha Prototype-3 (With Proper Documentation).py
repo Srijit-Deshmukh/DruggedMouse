@@ -1,7 +1,7 @@
 #Carbon Footprint Calculator for Individuals {Montly/Anually}
 
 import streamlit 
-streamliot.write('''
+streamlit.write('''
 #Hello World!
 ''')
 #User Freindly
