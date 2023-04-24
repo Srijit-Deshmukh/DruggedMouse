@@ -1,5 +1,9 @@
 #Carbon Footprint Calculator for Individuals {Montly/Anually}
 
+import streamlit 
+streamliot.write('''
+#Hello World!
+''')
 #User Freindly
 #In-built safety features
 #Instant Results with Comparision
